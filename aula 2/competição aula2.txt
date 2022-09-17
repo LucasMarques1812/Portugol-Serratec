@@ -1,0 +1,4 @@
+Leitura de nome, idade e altura
+
+Participa da competição
+se idade > 18 ou altura >= 1.80
